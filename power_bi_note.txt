@@ -1,0 +1,93 @@
+
+- utilité de power BI 
+
+Les activités et les analyses que vous allez découvrir avec Power BI 
+suivent généralement un flux classique. Le flux d’activités classique 
+se présente ainsi :
+
+   - Intégrer des données dans Power BI Desktop et créer un rapport
+   - Publier sur le service Power BI, où vous pouvez créer des visualisations ou générer des tableaux de bord
+   - Partager les tableaux de bord avec d’autres personnes, notamment celles qui sont en déplacement
+   - Afficher et interagir avec les rapports et les tableaux de bord partagés dans les applications Power BI Mobile.
+
+
+Les blocs de construction de base dans Power BI sont les suivants :
+
+    Visualisations
+    Jeux de données
+    Rapports
+    Tableaux de bord
+    Vignettes
+
+
+
++++  Une visualisation (ou élément visuel) est une représentation visuelle de données, 
+     comme un graphique, une carte en couleur ou d’autres images pertinentes que vous pouvez créer pour représenter visuellement vos données.
+     Power BI propose de nombreux types de visualisations, et de nouveaux modèles sont ajoutés régulièrement. 
+     L’image suivante illustre un ensemble de visualisations créées dans Power BI.
+     Les visualisations peuvent être simples (par exemple, un numéro unique correspondant à un point important) ou complexes visuellement
+     (telle une carte avec dégradés de couleur indiquant l’opinion des électeurs sur un thème de société). 
+     Les éléments visuels permettent de présenter les données de manière à fournir du contexte 
+     et des informations, ce qui serait probablement difficile à dégager d’un tableau brut comportant des chiffres ou du texte.
+
+
++++  Un jeu de données dans power BI est une collection de données utilisées par Power BI pour créer des visualisations.
+    Vous pouvez disposer d’un jeu de données simple issu d’un seul tableau Microsoft Excel.
+    Les jeux de données peuvent également correspondre à la combinaison de multiples sources que vous pouvez filtrer et 
+    joindre pour créer une collection de données unique (un jeu de données) à utiliser dans Power BI.
+
+
++++ Dans Power BI, un rapport est une collection de visualisations qui apparaissent ensemble sur une ou plusieurs pages.
+    Comme tout rapport que vous pouvez être amené à créer pour une présentation commerciale ou un devoir scolaire, 
+      un rapport Power BI est une collection d’éléments liés les uns aux autres.
+      L’image suivante montre un rapport dans Power BI Desktop.Les rapports vous permettent de créer de nombreuses
+      visualisations, sur des pages différentes si besoin. Vous pouvez organiser ces visualisations de la façon la plus adaptée à votre situation
+
++++ une vignette est une visualisation unique figurant dans un tableau de bord. 
+    Il s’agit de la zone rectangulaire qui contient un visuel individuel.
+    Dans l’image suivante, vous pouvez voir une vignette, également entourée d’autres vignettes.
+
+
+  ** Microsoft Power BI est un ensemble de services logiciels, d’applications et de connecteurs qui fonctionnent ensemble pour transformer vos données en insights interactifs. 
+   Vous pouvez utiliser les données issues d’une seule source de base, comme un classeur Microsoft Excel, mais vous pouvez également extraire les données
+   de plusieurs bases de données et sources cloud afin de créer des jeux de données et des rapports complexes. Si vous le souhaitez, 
+   Power BI peut rester simple d’utilisation, mais vous pouvez aussi l’adapter à l’entreprise et à des besoins métier complexes.
+Power BI se compose de trois éléments principaux : Power BI Desktop, le service Power BI et Power BI Mobile. Tous trois fonctionnement 
+  ensemble pour vous permettre de créer, d’interagir, de partager et de consommer vos données comme bon vous semble.
+
+
+
+   les composants élémentaires de Power BI :
+
+    Visualisations : représentations visuelles des données, parfois appelées visuels
+    Jeux de données : collections de données utilisées par Power BI pour créer des visualisations
+    Rapports : collections de visuels provenant d’un jeu de données, étendues sur une ou plusieurs pages
+    Tableaux de bord : collections de visuels sur une page unique, créées à partir d’un rapport
+    Mosaïques : captures instantanées de vos données dans un tableau de bord
+
+Dans le service Power BI, nous avons installé une application en seulement quelques clics. Cette application, une collection prête à l’emploi de visuels et de rapports, nous permet de nous connecter facilement à un service logiciel afin de remplir l’application et de donner vie à ces données.
+
+Pour finir, nous avons configuré une planification de l’actualisation de nos données, afin de garantir qu’elles soient toujours à jour quand nous accédons au service Power BI.
+Étapes suivantes
+
+Félicitations ! Vous avez terminé le premier module du parcours d’apprentissage pour Power BI. Vous disposez maintenant de solides bases pour passer au module suivant, qui décrit les étapes de création de votre premier rapport.
+
+    développer vos connaissances en suivant le flux de travail classique dans Power BI :
+
+    Intégrer des données dans Power BI Desktop et créer un rapport
+    Publier sur le service Power BI, où vous créez des visualisations ou générez des tableaux de bord
+    Partager vos tableaux de bord avec d’autres personnes, notamment celles qui sont en déplacement
+    Afficher et interagir avec les rapports et les tableaux de bord partagés dans les applications Power BI Mobile
+
+
+
++++Dans ce module, vous avez appris à :
+
+    Rechercher vos données à l’aide de la page d’accueil et de l’arborescence de navigation de l’application mobile.
+    Consulter et interagir avec vos données.
+    Créer des raccourcis pour vous permettre d’accéder rapidement et efficacement à vos données.
+    Créer des alertes pour vous avertir des modifications apportées aux données.
+    Partager des insights avec vos collègues.
+    Obtenir des données sur le terrain.
+    Configurer l’application pour améliorer la sécurité et mieux correspondre aux préférences personnelles.
+
